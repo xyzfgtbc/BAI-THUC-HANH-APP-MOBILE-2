@@ -1,3 +1,4 @@
+// Kiều Đức Nguyên: Quản lý phiên đăng nhập (SharedPreferences)
 package com.example.payrollsimple
 
 import android.content.Context

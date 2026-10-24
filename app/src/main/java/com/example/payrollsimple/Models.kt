@@ -1,3 +1,4 @@
+// Kiều Đức Nguyên: Data models cho Account, Employee, WorkLog, Salary
 package com.example.payrollsimple
 
 // Một đối tượng tương ứng với một dòng của bảng.

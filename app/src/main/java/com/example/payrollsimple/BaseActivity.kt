@@ -1,3 +1,4 @@
+// Kiều Đức Nguyên: BaseActivity khởi tạo CSDL, SessionManager và kiểm tra phiên
 package com.example.payrollsimple
 
 import android.app.Activity

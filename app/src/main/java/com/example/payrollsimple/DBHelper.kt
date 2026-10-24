@@ -1,3 +1,4 @@
+// Kiều Đức Nguyên: Khởi tạo CSDL SQLite, đăng nhập và xử lý tài khoản (Phần 1)
 package com.example.payrollsimple
 
 import android.content.ContentValues

@@ -1,0 +1,5 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Giờ trong cùng ngày, định dạng HH:mm:ss" android:textSize="16sp" android:paddingBottom="10dp" />
+<EditText android:id="@+id/edIn" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Giờ vào, ví dụ 08:00:00" android:inputType="time" android:singleLine="true" android:minHeight="48dp" />
+<EditText android:id="@+id/edOut" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Giờ ra, ví dụ 17:00:00" android:inputType="time" android:singleLine="true" android:minHeight="48dp" />
+</LinearLayout>

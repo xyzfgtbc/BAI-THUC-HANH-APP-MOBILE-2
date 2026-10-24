@@ -1,0 +1,9 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+<EditText android:id="@+id/edMonth" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Tháng yyyy-MM, ví dụ 2026-10" android:inputType="text" android:singleLine="true" android:minHeight="48dp" />
+<Button android:id="@+id/btnLoad" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Xem tháng" android:textAllCaps="false" />
+<LinearLayout android:id="@+id/attendanceButtons" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"><Button android:id="@+id/btnCheckIn" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Check-in" android:textAllCaps="false" />
+<Button android:id="@+id/btnCheckOut" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Check-out" android:textAllCaps="false" />
+</LinearLayout><TextView android:id="@+id/tvSummary" android:layout_width="match_parent" android:layout_height="wrap_content" android:padding="8dp" android:textSize="16sp" />
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Admin: chạm ca để sửa giờ / hoàn tất ca còn thiếu." android:textSize="16sp" android:paddingBottom="10dp" />
+<ListView android:id="@+id/listLogs" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" />
+</LinearLayout>

@@ -1,3 +1,4 @@
+// Kiều Đức Nguyên: HomeActivity xử lý giao diện trang chủ và điều hướng theo vai trò
 package com.example.payrollsimple
 
 import android.content.Intent

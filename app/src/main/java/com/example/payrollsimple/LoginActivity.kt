@@ -1,3 +1,4 @@
+// Kiều Đức Nguyên: LoginActivity xử lý giao diện và luồng đăng nhập
 package com.example.payrollsimple
 
 import android.app.Activity

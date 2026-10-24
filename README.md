@@ -1,3 +1,13 @@
+# BAI-THUC-HANH-APP-MOBILE-2
+
+## Phân công công việc
+
+- **Kiều Đức Nguyên**: Database, đăng nhập, lưu phiên, menu và điều hướng theo vai trò
+- **Lê Hải Đăng**: CRUD nhân viên: thêm, xem, sửa, xóa, tìm kiếm
+- **Lê Ngọc Minh**: Chấm công, lịch sử, tính và quản lý lương; kiểm tra các luồng chính
+
+---
+
 # Bài thực hành: Quản lý chấm công và lương
 
 **Kotlin + XML + SQLite**, tổ chức gần mẫu MPTest2Complete: Activity gọi thẳng DBHelper, lưu phiên bằng SharedPreferences. Giao diện dùng form và ListView; không dùng Compose, MVVM, Repository hay server.

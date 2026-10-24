@@ -1,0 +1,8 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="MENU CHÍNH" android:textSize="22sp" android:paddingBottom="10dp" />
+<TextView android:id="@+id/tvWelcome" android:layout_width="match_parent" android:layout_height="wrap_content" android:padding="8dp" android:textSize="16sp" />
+<Button android:id="@+id/btnEmployees" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Quản lý nhân viên (CRUD)" android:textAllCaps="false" />
+<Button android:id="@+id/btnAttendance" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Chấm công / lịch sử" android:textAllCaps="false" />
+<Button android:id="@+id/btnSalary" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Lương tháng" android:textAllCaps="false" />
+<Button android:id="@+id/btnLogout" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Đăng xuất" android:textAllCaps="false" />
+</LinearLayout>

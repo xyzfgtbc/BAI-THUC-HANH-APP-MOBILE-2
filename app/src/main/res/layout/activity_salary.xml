@@ -1,0 +1,9 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+<EditText android:id="@+id/edMonth" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Tháng yyyy-MM, ví dụ 2026-10" android:inputType="text" android:singleLine="true" android:minHeight="48dp" />
+<Button android:id="@+id/btnLoad" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Xem tháng" android:textAllCaps="false" />
+<Button android:id="@+id/btnCalculate" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Tính / cập nhật lương tháng" android:textAllCaps="false" />
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="8 giờ thường/ngày. Phần vượt 8 giờ hưởng 150%." android:textSize="16sp" android:paddingBottom="10dp" />
+<TextView android:id="@+id/tvSummary" android:layout_width="match_parent" android:layout_height="wrap_content" android:padding="8dp" android:textSize="16sp" />
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Admin: chạm một dòng để đổi trạng thái hoặc xóa." android:textSize="16sp" android:paddingBottom="10dp" />
+<ListView android:id="@+id/listSalaries" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" />
+</LinearLayout>

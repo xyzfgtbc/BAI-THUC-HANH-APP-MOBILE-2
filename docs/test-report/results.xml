@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.payrollsimple.AppTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-24T06:58:26" hostname="90b6d2675b5a" time="6.711">
+  <properties/>
+  <testcase name="duplicateCodeRollsBackAccountCreation" classname="com.example.payrollsimple.AppTest" time="4.33"/>
+  <testcase name="crudEmployeeAndAccount" classname="com.example.payrollsimple.AppTest" time="0.058"/>
+  <testcase name="salaryCalculationStatusAndDelete" classname="com.example.payrollsimple.AppTest" time="0.096"/>
+  <testcase name="incompleteShiftBlocksPayrollAndNextCheckin" classname="com.example.payrollsimple.AppTest" time="0.081"/>
+  <testcase name="xmlScreensInflateAndEmployeeIsScoped" classname="com.example.payrollsimple.AppTest" time="2.0"/>
+  <testcase name="validateEmployee" classname="com.example.payrollsimple.AppTest" time="0.03"/>
+  <testcase name="loginAndSession" classname="com.example.payrollsimple.AppTest" time="0.029"/>
+  <testcase name="deleteEmployeeCascadesAttendanceAndSalary" classname="com.example.payrollsimple.AppTest" time="0.036"/>
+  <testcase name="attendanceAndAutomaticSalary" classname="com.example.payrollsimple.AppTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
